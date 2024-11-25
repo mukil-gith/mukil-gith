@@ -2,3 +2,15 @@
 <head> 
 <title> Moving objects </title>
 </head>
+<body bgcolor = "lightgreen">
+<h1> moving text using marquee </h1>
+<font face = "MS Sans Serif" color = "red" size = "7">
+<marquee direction = "right" behaviour="slid" scrollmount="10".
+touchpad
+</marquee>
+</font>
+<marquee direction = "left" behavior="alternate" scrollmount = "10">
+<img src = "plane.png" width = "400" height = "400">
+</marquee> 
+</body>
+</html>
